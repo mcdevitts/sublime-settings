@@ -57,6 +57,6 @@
 
 	 "pep8_max_line_length": 120,
 
-	 "swallow_startup_errors": true,
+	 "swallow_startup_errors": false,
 	 "hide_snippets_on_completion": false,
 }

@@ -1,0 +1,7 @@
+{
+	// Where to look for python virtualenvs
+	"python_virtualenv_paths": [
+		"%USERPROFILE%\\Envs",
+		"C:\\Users\\RFUser\\Envs"
+	],
+}
